@@ -1,0 +1,5 @@
+.idea/
+.venv/
+src/swc_utils.egg-info/
+build/
+dist/
