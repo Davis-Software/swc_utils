@@ -1,3 +1,2 @@
-### SWC Utils
-
-This repository contains a collection of utilities for SWC projects.
+# This repo was moved!
+### [Find it here](https://gitlab.software-city.org/root/swc_utils)
